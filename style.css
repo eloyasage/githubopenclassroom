@@ -9,4 +9,5 @@ p {
 .price {
     background-color: gray;
     color: olivedrab;
+    font-family: 'Courier New', Courier, monospace;
 }
