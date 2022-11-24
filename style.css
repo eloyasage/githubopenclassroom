@@ -5,3 +5,8 @@ h1 {
 p {
     background-color: gray;
 }
+
+.price {
+    background-color: gray;
+    color: olivedrab;
+}
